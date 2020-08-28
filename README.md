@@ -53,6 +53,6 @@ All the recommended files and directories from the steps above should look like 
 ```
 
 ### Example
-![img](/public/assets/img/example.png)
+![img](public/assets/images/Screenshot 2020-08-27 at 5.38.03 PM.png)
 
 * **Heroku Link** - ths links is not working yet 
