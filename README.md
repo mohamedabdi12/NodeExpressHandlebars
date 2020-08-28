@@ -1,8 +1,5 @@
 # NodeExpressHandlebars
 # Eat-Da-Burger
-![License: Mark Kelly](https://img.shields.io/badge/License-Mark_Kelly-brightgreen.svg)
-
-### Burger Logger
 
 Created with MySQL, Node, Express, Handlebars and a homemade ORM (yum!).
 
@@ -58,4 +55,4 @@ All the recommended files and directories from the steps above should look like 
 ### Example
 ![img](/public/assets/img/example.png)
 
-* **Heroku Link** - 
+* **Heroku Link** - ths links is not working yet 
