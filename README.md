@@ -53,6 +53,6 @@ All the recommended files and directories from the steps above should look like 
 ```
 
 ### Example
-![img](public/assets/images/Screenshot 2020-08-27 at 5.38.03 PM.png)
+<img width="1440" alt="Screenshot 2020-08-27 at 5 41 52 PM" src="https://user-images.githubusercontent.com/63940676/91508548-a6d0f900-e88c-11ea-93d6-e065c4de9523.png">
 
 * **Heroku Link** - ths links is not working yet 
